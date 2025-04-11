@@ -1,6 +1,5 @@
-package se.lexicon;
+package se.lexicon.modelTest;
 
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import se.lexicon.model.Course;
@@ -9,7 +8,6 @@ import se.lexicon.model.Student;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.NoSuchElementException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
